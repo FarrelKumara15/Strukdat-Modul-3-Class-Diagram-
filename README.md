@@ -15,3 +15,42 @@ Dari masalah tersebut dapat dibuat program Sistem Manajemen Karyawan Toko berbas
 <br/><br/>
 
 ![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Manajemen%20Karyawan%20Toko.png)
+
+<br/><br/>
+Prinsip OOP 
+Encapsulation
+
+Atribut pada class disembunyikan menggunakan access modifier private.
+
+```bash
+private int id;
+private String nama;
+private String jabatan;
+```
+
+Atribut tersebut hanya dapat diakses melalui getter dan setter.
+
+Inheritance
+
+```bash
+Class Karyawan, Jadwal, dan Gaji mewarisi class DataToko.
+
+class Karyawan extends DataToko
+class Jadwal extends DataToko
+class Gaji extends DataToko
+```
+Hal ini memungkinkan subclass menggunakan method dari superclass.
+
+Polymorphism
+
+Polymorphism diterapkan dengan method overriding pada method tampil().
+```bash
+@Override
+public void tampil()
+```
+
+Setiap class memiliki implementasi method tampil() yang berbeda.
+
+Abstraction
+
+Class DataToko berfungsi sebagai konsep umum yang merepresentasikan data dalam sistem toko.
