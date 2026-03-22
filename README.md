@@ -12,4 +12,6 @@ Dari masalah tersebut dapat dibuat program Sistem Manajemen Karyawan Toko berbas
 2. Jadwal kerja karyawan
 3. penggajian karyawan
 
+<br/><br/>
+
 ![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Manajemen%20Karyawan%20Toko.png)
