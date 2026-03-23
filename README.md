@@ -1,6 +1,6 @@
 # Strukdat-Modul-3-Class-Diagram
 
-### Deskripsi
+## Deskripsi
 Sebuah toko kecil selama ini melakukan pengelolaan karyawan secara manual menggunakan catatan. Metode tersebut memiliki beberapa masalah seperti:<br/>
 1. Data karyawan diperbarui
 2. Jadwal kerja kurang terorganisir
@@ -17,11 +17,11 @@ Dari masalah tersebut dapat dibuat program Sistem Manajemen Karyawan Toko berbas
 ![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Gambar/Manajemen%20Karyawan%20Toko.png)
 <br/><br/>
 
-### Output
+## Output
 ![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Gambar/Screenshot%202026-03-23%20190836.png)
 <br/>
 
-### Prinsip OOP 
+## Prinsip OOP 
 **Encapsulation**
 
 Atribut pada class disembunyikan menggunakan access modifier private.
