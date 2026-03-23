@@ -63,4 +63,4 @@ Class Toko berfungsi sebagai konsep umum yang merepresentasikan data dalam siste
 Keunikan:
 1. Menggunakan array manual tanpa menggunakan ArrayList atau Vector
 2. Menghubungkan data jadwal dan gaji dengan karyawan melalui ID, relasi database sederhana
-3. 
+3. Mencari karyawan tertentu dengan menggunakan ID
