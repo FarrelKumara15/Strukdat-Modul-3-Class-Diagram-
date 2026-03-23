@@ -21,14 +21,6 @@ class Karyawan extends Toko{
         return ID;
     }
 
-    public String getNama(){
-        return nama;
-    }
-
-    public String getJabatan(){
-        return jabatan;
-    }
-
     public void setNama(String nama){
         this.nama = nama;
     }
