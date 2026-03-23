@@ -37,11 +37,11 @@ Atribut tersebut hanya dapat diakses melalui getter dan setter.
 **Inheritance**
 
 ```bash
-Class Karyawan, Jadwal, dan Gaji mewarisi class DataToko.
+Class Karyawan, Jadwal, dan Gaji mewarisi class Toko.
 
-class Karyawan extends DataToko
-class Jadwal extends DataToko
-class Gaji extends DataToko
+class Karyawan extends Toko
+class Jadwal extends Toko
+class Gaji extends Toko
 ```
 Hal ini memungkinkan subclass menggunakan method dari superclass.
 
@@ -58,3 +58,9 @@ Setiap class memiliki implementasi method tampil() yang berbeda.
 **Abstraction**
 
 Class Toko berfungsi sebagai konsep umum yang merepresentasikan data dalam sistem toko.
+<br/>
+
+Keunikan:
+1. Menggunakan array manual tanpa menggunakan ArrayList atau Vector
+2. Menghubungkan data jadwal dan gaji dengan karyawan melalui ID, relasi database sederhana
+3. 
