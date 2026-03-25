@@ -1,5 +1,7 @@
 # Strukdat-Modul-3-Class-Diagram
+<br/>
 
+## Farrel Arteya Kumara - 5027251020
 ## Deskripsi
 Sebuah toko kecil selama ini melakukan pengelolaan karyawan secara manual menggunakan catatan. Metode tersebut memiliki beberapa masalah seperti:<br/>
 1. Data karyawan diperbarui
