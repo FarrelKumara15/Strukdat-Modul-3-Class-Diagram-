@@ -14,7 +14,7 @@ Dari masalah tersebut dapat dibuat program Sistem Manajemen Karyawan Toko berbas
 
 <br/><br/>
 ## Class Diagram
-![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Gambar/Class%20Diagram%20Manajemen%20Karyawan%20Toko.png)
+![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Gambar/Class%20Diagram%20(Manajemen%20Karyawan%20Toko).png)
 <br/><br/>
 
 ## Output
