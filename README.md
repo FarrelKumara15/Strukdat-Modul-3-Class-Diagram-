@@ -10,7 +10,7 @@ Sebuah toko kecil selama ini melakukan pengelolaan karyawan secara manual menggu
 Dari masalah tersebut dapat dibuat program Sistem Manajemen Karyawan Toko berbasis Java dengan OOP, yang dapat mengelola:
 1. Data karyawan
 2. Jadwal kerja karyawan
-3. penggajian karyawan
+3. Penggajian karyawan
 
 <br/><br/>
 ## Class Diagram
