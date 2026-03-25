@@ -18,7 +18,7 @@ Dari masalah tersebut dapat dibuat program Sistem Manajemen Karyawan Toko berbas
 <br/><br/>
 
 ## Output
-![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Gambar/Screenshot%202026-03-23%20195257.png)
+![alt text](https://github.com/FarrelKumara15/Strukdat-Modul-3-Class-Diagram-/blob/main/Gambar/Screenshot%202026-03-25%20201443.png)
 <br/>
 
 ## Prinsip OOP 
